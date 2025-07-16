@@ -1,14 +1,14 @@
 # RC2014
 All about RC2014/Z80 in one place
 
-This is my try to collect all necessary informations to build and program the 
+This is my attempt to collect all the necessary information to build and program the 
 RC2014 system...
  
-All informations are gather from different web sites. 
+All information is gathered from various websites. 
 
-Should I violate copyright please let me know.
+Should I violate copyright, please let me know.
 
-All this informations are based an Dr. Scott M. Baker blog, only a bit polished :-)
+All this information is based on Dr. Scott M. Baker's blog, only a bit polished :-)
 
 Please visit
 
